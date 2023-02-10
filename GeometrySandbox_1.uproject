@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E7A384EC-41C9-9F92-8E34-21A8894C1B7F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GeometrySandbox_1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
